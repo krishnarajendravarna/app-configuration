@@ -1,5 +1,5 @@
 build:
   id: 10100010
   version: 1090.2.3
-  name: "Development-Git-Build"
-  type: "Git Development Build"
+  name: "Default-Git-Build"
+  type: "Git Default Build"
